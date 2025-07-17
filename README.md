@@ -1,4 +1,4 @@
-<a href="https://github.com/okacodes/okacodes/tree/main/images" target="_blank">
+<a href="https://github.com/okacodes/okacodes/blob/main/images/banner.jpg" target="_blank">
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
