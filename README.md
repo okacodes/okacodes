@@ -1,7 +1,5 @@
 
-<a href="https://loganlyons.me" target="_blank">
-  <img src="https://github.com/okacodes/okacodes/blob/main/images/banner.jpg"/>
-</a>
+  <img src="https://imgur.com/a/pLrPkrt" width="100%">
   
 
 <p align="center">
@@ -14,14 +12,14 @@
   <a href="https://x.com/OkaCodes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=x&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://loganlyons.me/Logan_Lyons_-_Software_Engineer.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+Full-Stack Software Engineer, I enjoy developing solutions that work, with a focus on projects that have a positive impact on the environment, animals, and people.
 
-See [my website](https://shawncharles.com) for more information!
+See [my website](https://loganlyons.me) for more information!
 
 
 <h1 align="center">Projects</h1>
@@ -29,7 +27,7 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Open Hope</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
             <img src="images/gif1.gif" width="100%" alt="Travel App"/>
@@ -37,12 +35,9 @@ See [my website](https://shawncharles.com) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <a href="https://github.com/okacodes/okacodes/blob/main/images/open-hope.gif" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="\https://shawncharles.com/travelara" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
       </p>
         <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
     </td>
