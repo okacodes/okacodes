@@ -30,7 +30,7 @@ See [my website](https://loganlyons.me) for more information!
       <h3 align="center">Open Hope</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="images/open-hope.gif" width="100%" alt="Open Hope"/>
         </a>
         <br />
         <p align="center">
